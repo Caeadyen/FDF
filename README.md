@@ -12,3 +12,4 @@ All programs that you wrote until now were executed in text mode on your termina
 bug:
 - the mandortary and bonus part are done all together, so no extra bonus rule
 - numblock is used for some commands, so there is a problem if no numblock on the computer
+- Makefile has a small bug
